@@ -35,27 +35,31 @@ Press `d` to move Rigth.
 
 Press `Spacebar` to attack  .
 
-## Screenshots
-Menu 
+## Features
 
-![Screenshot 2023-04-19 144445](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/73a2ae9b-8a20-459b-8aaf-228aa0969ae9)
+- Simple and User-Friendly UI
 
-Level selection page
+![menu](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/d5fcf679-dcd5-4b52-a7f5-6f3563c80115)
 
-![Screenshot 2023-04-19 210921](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/53db16dd-761c-4868-87e8-53f81600bc70)
+![level_selection](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/8959946b-c843-4535-93e8-53046a78ca64)
 
-Gameplay
+- Challenging yet, amusing gameplay that will keep you at the edge of your seat.
 
-![Screenshot 2023-04-19 212501](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/800bf0a5-76fb-416c-8a45-b165e35e6bca)
+![gameplay_2](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/ffec2ce2-a212-4fee-a05c-28f67ea7ff42)
 
+![gameplay_3](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/548592f9-c9fc-47e5-93c0-57a5270632aa)
 
-![Screenshot 2023-04-19 212821](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/677819f4-f4f9-492b-9568-f52561fded58)
+- Explore astonishing environments.
 
+![gameplay_1](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/4eaed0a5-97da-4aad-b68e-1b925709c4de)
 
-![Screenshot 2023-04-19 212947](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/73f6b21a-776f-44bc-8e24-ece1d222da18)
+![gameplay_5](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/527ab9ad-a4d3-4a7a-bad9-8221cc82e7cb)
 
+![gameplay_4](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/db750d1c-aafa-4116-be25-bcf920208765)
 
-![Screenshot 2023-04-19 213120](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/3b8b1616-9164-4334-a702-5c443a9e1af3)
+- Set new highscores
+
+![highscore_page](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/4c082e0e-d94e-4dd6-86cc-2837dc9063ab)
 
 
 ## Technologies used
