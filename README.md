@@ -38,12 +38,25 @@ Press `Spacebar` to attack  .
 ## Screenshots
 Menu 
 
-![Menu](![Screenshot 2023-04-19 144445](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/73a2ae9b-8a20-459b-8aaf-228aa0969ae9))
+![Screenshot 2023-04-19 144445](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/73a2ae9b-8a20-459b-8aaf-228aa0969ae9)
 
 Level selection page
 
-![level selection page](![Screenshot 2023-04-19 210921](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/53db16dd-761c-4868-87e8-53f81600bc70)
-)
+![Screenshot 2023-04-19 210921](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/53db16dd-761c-4868-87e8-53f81600bc70)
+
+Gameplay
+
+![Screenshot 2023-04-19 212501](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/800bf0a5-76fb-416c-8a45-b165e35e6bca)
+
+
+![Screenshot 2023-04-19 212821](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/677819f4-f4f9-492b-9568-f52561fded58)
+
+
+![Screenshot 2023-04-19 212947](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/73f6b21a-776f-44bc-8e24-ece1d222da18)
+
+
+![Screenshot 2023-04-19 213120](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/3b8b1616-9164-4334-a702-5c443a9e1af3)
+
 
 ## Technologies used
 
