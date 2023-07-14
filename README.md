@@ -69,7 +69,7 @@ Pygame is a free and open-source cross-platform library for the development of m
 
 ### Sqlite3
 
-![sqlite](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/e6baf35d-35d4-4991-920b-f4f47e4a78a8)
+![sqlite](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/cad1fa75-5e4b-4904-98b8-5d7cd03d6be5)
 
 
 SQLite is a C library that provides a lightweight disk-based database that doesn’t require a separate server process and allows accessing the database using a nonstandard variant of the SQL query language. Some applications can use SQLite for internal data storage.
