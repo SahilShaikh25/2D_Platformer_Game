@@ -27,29 +27,29 @@ Having more stars proves your mastery 🎖️ in the game so, collect them all �
 
 ## Controls 🕹️
 
-Press `w` to jump.
+Press `w` to jump ⬆️
 
-Press `a` to move Left. 
+Press `a` to move Left ⬅️
 
-Press `d` to move Rigth.
+Press `d` to move Rigth ➡️
 
-Press `Spacebar` to attack  .
+Press `Spacebar` to attack 🗡️
 
 ## Features
 
-- Simple and User-Friendly UI
+- **Simple and User-Friendly UI 🤗**
 
 ![menu](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/d5fcf679-dcd5-4b52-a7f5-6f3563c80115)
 
 ![level_selection](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/8959946b-c843-4535-93e8-53046a78ca64)
 
-- Challenging yet, amusing gameplay that will keep you at the edge of your seat.
+- **Challenging yet, amusing 👀 gameplay that will keep you at the edge of your seat**
 
 ![gameplay_2](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/ffec2ce2-a212-4fee-a05c-28f67ea7ff42)
 
 ![gameplay_3](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/548592f9-c9fc-47e5-93c0-57a5270632aa)
 
-- Explore astonishing environments.
+- **Explore astonishing environments 🌐🗺️.**
 
 ![gameplay_1](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/4eaed0a5-97da-4aad-b68e-1b925709c4de)
 
@@ -57,7 +57,7 @@ Press `Spacebar` to attack  .
 
 ![gameplay_4](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/db750d1c-aafa-4116-be25-bcf920208765)
 
-- Set new highscores
+- **Set new highscores 🎯🏆**
 
 ![highscore_page](https://github.com/SahilShaikh25/2D_Platformer_Game/assets/75927311/4c082e0e-d94e-4dd6-86cc-2837dc9063ab)
 
